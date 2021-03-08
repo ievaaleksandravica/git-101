@@ -1,0 +1,20 @@
+body {
+	text-align:center;
+	font-family: Helvetica;
+
+}
+
+.container	{
+	margin: 20px;
+	background: gray;
+	padding: 20px;}
+
+
+h1	{
+	color: green;
+	font-size: 40px;
+}
+
+h2	{
+	color: white;
+}
